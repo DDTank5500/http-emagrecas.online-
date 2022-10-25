@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://desafio19dias.com</homePageLink>
+		<homePageLink>https://emagrecas.online</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://desafio19dias.com/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://desafio19dias.com/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://desafio19dias.com/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://desafio19dias.com/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://desafio19dias.com/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://emagrecas.online/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://emagrecas.online/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://emagrecas.online/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://emagrecas.online/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://emagrecas.online/wp-json/" />
 			</apis>
 	</service>
 </rsd>
